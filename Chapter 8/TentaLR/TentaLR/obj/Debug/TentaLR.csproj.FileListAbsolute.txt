@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\bin\TentaLR.dll.config
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\bin\TentaLR.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\bin\TentaLR.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\obj\Debug\TentaLR.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\obj\Debug\TentaLR.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\TentaLR\TentaLR\obj\Debug\TentaLR.pdb

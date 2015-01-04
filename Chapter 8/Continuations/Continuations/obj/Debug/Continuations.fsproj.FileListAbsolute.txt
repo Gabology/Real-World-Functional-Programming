@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\Continuations.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\Continuations.XML
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\Continuations.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\Continuations.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\FSharp.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\bin\Debug\FSharp.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\obj\Debug\Continuations.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 8\Continuations\Continuations\obj\Debug\Continuations.pdb

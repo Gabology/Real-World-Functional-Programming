@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\SecondVer.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\SecondVer.XML
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\SecondVer.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\SecondVer.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\FSharp.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\bin\Debug\FSharp.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\obj\Debug\SecondVer.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 7\SecondVer\obj\Debug\SecondVer.pdb

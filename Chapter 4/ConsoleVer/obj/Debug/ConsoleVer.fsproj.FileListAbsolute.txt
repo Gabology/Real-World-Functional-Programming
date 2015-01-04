@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\ConsoleVer.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\ConsoleVer.XML
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\ConsoleVer.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\ConsoleVer.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\FSharp.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\bin\Debug\FSharp.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\obj\Debug\ConsoleVer.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\ConsoleVer\obj\Debug\ConsoleVer.pdb

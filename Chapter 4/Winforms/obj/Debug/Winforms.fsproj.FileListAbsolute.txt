@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\Winforms.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\Winforms.XML
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\Winforms.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\Winforms.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\FSharp.Core.dll
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\bin\Debug\FSharp.Core.xml
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\obj\Debug\Winforms.exe
+C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Real World Functional Programming\Chapter 4\Winforms\obj\Debug\Winforms.pdb
